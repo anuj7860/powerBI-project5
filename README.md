@@ -53,10 +53,22 @@ fulfilled-by: Who is responsible for fulfilling the order.
 Fulfilment: The type of fulfillment method used.
 Table 3: "Sale_Option"
 
-This table likely contains information about different sales options or promotions offered by Amazon. The columns include:
+# This table likely contains information about different sales options or promotions offered by Amazon. The columns include:
 
 Name: The name of the sale option.
 Type: The type of sale option.
 Relationship between tables
 
 The tables are connected using relationships. The "amazon-fashion - YT" table is connected to the "Amazon" table using the "ASIN" column. This suggests that each product in the "amazon-fashion - YT" table has a corresponding sales record in the "Amazon" table. There is no visible relationship between the "Sale_Option" table and the other two tables.
+
+# dashboard visuals :
+
+![Screenshot 2024-09-14 132937](https://github.com/user-attachments/assets/c1c689fc-26b5-45aa-96e6-45598f946ba2)
+
+![Screenshot 2024-09-14 132950](https://github.com/user-attachments/assets/2218f71c-21f9-4df8-b17c-af35a97a914a)
+
+![Screenshot 2024-09-14 133050](https://github.com/user-attachments/assets/96f24a2b-c9d3-4937-81be-39fe7fa2d05f)
+
+# working :
+
+
